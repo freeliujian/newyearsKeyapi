@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/create-next-app).
+# 新年签
+
+使用 prompt 的一个AI生成新年签。API目录是接口，pages是示例。可以根据用户输入生成不同的新年寄语，幸运色，幸运数字，幸运方位等。
+
+提示词链接： https://www.yuque.com/youer-suxvl/mz44x0/sfyx7gy7pr7ltesg?singleDoc# 《AI新年签》
 
 ## Getting Started
 
